@@ -6,7 +6,7 @@ Welcome to my text portfolio. All projects below are clickable. For each project
 - [Medical Application for Patients with Health Limitations Description](medical_communication_platform.md)
 - [Document Verification Platform Description](document_verification_platform.md)
 - [Streaming Platform for Films and Series Description](video_streaming_platform.md)
-- [Co-Working Apartment Booking Application description]()
+- [Co-Working Apartment Booking Application description](booking_app.md)
 - [Marketplace Application Description](marketplace_app.md)
 - [Electronic Medical Card Application Description](medical_card_app.md)
 - [Pizza and Drinks Ordering Application Description](pizza_restaurant_app.md)
